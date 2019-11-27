@@ -1,0 +1,11 @@
+tup1=(0,1,2,3)
+tup2=('abc','efg')
+tup3=tup1+tup2
+tup4=(tup1,tup2)
+print(tup3)
+print(tup4)
+tup5=('python',)*3
+print(tup5)
+print(len(tup2))
+print(tup1[1:])
+print(tup1[2:])
